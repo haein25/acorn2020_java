@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class MainClass06 {
 	public static void main(String[] args) {
 		JFrame f=new JFrame("김구라");
-		f.setBo
+		
 		//창의 위치와 폭과높이
 		f.setBounds(100, 100, 500, 500);
 		//창이 화면상에 보이도록한다.
